@@ -1,17 +1,23 @@
 # database-cinema
-<b>Objectif :</b> Création d'une base de données fictive permettant de gérer la réservation de places de cinéma dans plusieurs complexes.
 
-Ce repository git est le fruit d'une évaluation dont le but est de montrer la réalisation de :
+## Description
+Création d'une base de données fictive permettant de gérer la réservation de places de cinéma dans plusieurs complexes.
 
--Un diagramme de classe.
+*Tous les prénoms, nom, email, mot de passe... se trouvant dans le fichier commandes-bdd-cinema.sql sont fictifs.*
 
--Un document .sql montrant les commandes pour :
-<br>--> la création d'une base de données.
-<br>--> La création d'utilisateurs avec des rôles restreints afin d'assurer la sécurité de la base de données.
-<br>--> L'insertion de données fictives.
-<br>--> Réaliser des tests CRUD.
-<br>--> Sauvegarder la base de données.
+## Contenu :
 
--L'image de l'état de la base de données sous le SGBD mysql.
+**Diagramme de classe**
+<br>
+<br>
+**Fichier des commandes SQL**
+- Création de la base de données
+- Création d'utilisateurs
+- Insertion de données fictives
+- Tests CRUD
+- Sauvegarde de la base de données
 
-<b>IMPORTANT : Tous les prénoms, nom, email, mot de passe... se trouvant dans le fichier commandes-bdd-cinema.sql sont fictifs.</b>
+**Images**
+- Différentes tables avec PHPMyAdmin
+- Test CRUD sous windows PowerShell
+
